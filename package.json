@@ -1,0 +1,20 @@
+{
+  "name": "my-oop-todo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "webpack & webpack-dev-server --open 'Google Chrome'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^16.3.14",
+    "@types/react-dom": "^16.0.5",
+    "ts-loader": "^4.3.0",
+    "typescript": "^2.8.3",
+    "webpack": "^4.9.1",
+    "webpack-cli": "^2.1.4",
+    "webpack-dev-server": "^3.1.4"
+  }
+}
